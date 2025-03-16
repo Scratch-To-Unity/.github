@@ -1,1 +1,1 @@
-# .github
+Used by the organization.
