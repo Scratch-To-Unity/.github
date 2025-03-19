@@ -1,5 +1,9 @@
 # Scratch To Unity
- A website that converts your entire Scratch project into a Unity game. 
+ An online tool that converts your entire Scratch project into a Unity game.
+
+ Easy to use, just import your project from your computer or enter a shared project ID.
+
+ Extremely fast compiling, in a few clicks you can run your Unity project.
  
  You can then build it and deploy it to multiple platforms, such as Windows, Mac, Linux, Android, Ios and consoles.
 
