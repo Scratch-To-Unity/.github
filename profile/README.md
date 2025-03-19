@@ -10,19 +10,3 @@ You can then build it and deploy it to multiple platforms, such as Windows, Mac,
 ![image](https://github.com/user-attachments/assets/6725a04f-8e6b-4f07-89d5-a9c02ae0b559)
 
 ![scratch to unity screenshot 3](https://github.com/Lythox-Supreme/Scratch-To-Unity/assets/139252857/18465ee6-5a37-4511-8208-22656ef86a0a)
-
-## Example project 
-
-*(Credits to SpinningCube https://scratch.mit.edu/projects/522014232/)*
-
-When imported:
-
-![uniswitch screenshot](https://github.com/user-attachments/assets/444fb814-939d-41bf-abe3-79a3104ba912)
-
-When ran:
-
-![image](https://github.com/user-attachments/assets/8808e53d-2ace-4fa9-8ef6-b625d4866a8b)
-
-In the code:
-
-![uniswitch screenshot 2](https://github.com/user-attachments/assets/26baebf2-1155-408d-94f7-d0e5f4023b4e)
